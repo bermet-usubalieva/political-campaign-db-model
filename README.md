@@ -13,7 +13,7 @@ This project contains a logical 3NF data model designed for managing a political
 
 ## Files
 
-- `DB_Bermet_Usubalieva_HW_Political_Campaign_diagram.drawio.png` – ER diagram
+- ![Campaign DB Schema](DB_Bermet_Usubalieva_HW_Political_Campaign_diagram.drawio.png) – ER diagram
 - `DB_Bermet_Usubalieva_HW_PoliticalCampaign_descriptions.docx` – detailed table/field descriptions
 
 > Created as part of an educational database modeling assignment (EPAM training)
